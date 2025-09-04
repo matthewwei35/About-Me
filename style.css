@@ -77,7 +77,7 @@ p {
   font-size: 1.25em;
 }
 
-#projects, #resume {
+#projects, #resume, footer {
   background-color: #E0F1E9;
 }
 
@@ -119,4 +119,8 @@ svg {
 .btn:hover {
   background-color: #20C997;
   color: #000000;
+}
+
+footer {
+    padding: 1em;
 }
